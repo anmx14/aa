@@ -46,7 +46,7 @@ body {
 }
 
 .logo {
-    background-image: url("/web/20230315182827im_/https://elszero.net/assets/logo.png");
+    background-image: url("https://raw.githubusercontent.com/anmx14/aa/main/assets/logo.png");
     background-repeat: no-repeat;
     background-size: cover;
     padding: 0px;
